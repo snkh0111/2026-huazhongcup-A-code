@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff159d72-6d87-4505-bbec-9f0e3424ee8e" name="更改" comment="" />
+    <list default="true" id="ff159d72-6d87-4505-bbec-9f0e3424ee8e" name="更改" comment="">
+      <change beforePath="$USER_HOME$/AppData/Local/Temp/question2.py17955972303242827234/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/Temp/question2.py17955972303242827234/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/AppData/Local/Temp/question2.py17955972303242827234" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "snkh0111"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/snkh0111/2026-huazhongcup-A-code.git",
+    "accountId": "0215077b-c764-4837-aa3e-a768dff98738"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -49,7 +63,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
